@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/OAMichael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAMichael" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OAMichael&theme=tokyonight" />
 </a>
 <a href="https://github.com/OAMichael">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OAMichael&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OAMichael&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
