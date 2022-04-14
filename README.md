@@ -1,6 +1,6 @@
 ## Hi there 👋! My name is Mikhail Ovsiannikov
 - 🔭 **I’m currently working on Project for 4th sem of Computer Science**
-- 🌱 **I’m currently learning at MIPT**
+- 🌱 **I’m currently studying at MIPT**
 - 📫 **How to reach me:** ovsiannikov.ma@phystech.edu
 - ⚡  **Fun fact: I like math, especially geometry**
 
